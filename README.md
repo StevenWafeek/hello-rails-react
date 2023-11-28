@@ -119,8 +119,7 @@ cd 'project name'
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [Delete and edit transactions]
-- [ User profile settings]
+[I will add authentication to this project.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
