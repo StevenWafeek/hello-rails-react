@@ -41,11 +41,7 @@ This web app combines React, Rails, and Webpack to provide users with a random g
 
 ### Key Features <a name="key-features"></a>
 
-- Gitflow execution
-- Register an account
-- Login registered account
-- Create categories and transactions
-- Upload Profile photo
+- Generate random greeting
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
